@@ -14,23 +14,14 @@
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/NeverGiveUp23/donation-marketplace-app/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/NeverGiveUp23/awesome-readme-template" alt="contributors" />
-  </a>
   <a href="https://github.com/NeverGiveUp23/donation-marketplace-app/graphs/commit-activity">
-    <img src="https://img.shields.io/github/last-commit/NeverGiveUp23/awesome-readme-template" alt="last update" />
+    <img src="https://img.shields.io/github/stars/NeverGiveUp23/donation-marketplace-app" alt="last update" />
   </a>
   <a href="https://github.com/Louis3797/awesome-readme-template/network/members">
-    <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
+    <img src="https://img.shields.io/github/commit-activity/t/NeverGiveUp23/donation-marketplace-app" alt="forks" />
   </a>
   <a href="https://github.com/Louis3797/awesome-readme-template/stargazers">
-    <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
-  </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/issues/">
-    <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
-  </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
+    <img src="https://img.shields.io/github/issues/NeverGiveUp23/donation-marketplace-app" alt="stars" />
   </a>
 </p>
    
