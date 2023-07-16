@@ -5,7 +5,6 @@
 <div align="center">
 
   <img src="assets/logo.png" alt="logo" width="200" height="auto" />
-  <h1>Awesome Readme Template</h1>
   
 # Welcome to Donate That!
 
